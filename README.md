@@ -1,14 +1,14 @@
-# umi project
+# warframm info
 
-## Getting Started
+## 使用
 
-Install dependencies,
+下载依赖,
 
 ```bash
 $ yarn
 ```
 
-Start the dev server,
+构建,
 
 ```bash
 $ yarn start
