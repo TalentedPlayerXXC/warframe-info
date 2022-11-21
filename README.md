@@ -1,8 +1,9 @@
 # warframe info
 
+### 碎碎念： 一时兴起的项目会坚持多长时间呢？
 ## 使用
 
-下载依赖,
+下载依赖
 
 ```bash
 $ yarn
@@ -13,3 +14,4 @@ $ yarn
 ```bash
 $ yarn start
 ```
+### 1.替换为warframe官方API接口
