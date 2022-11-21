@@ -1,4 +1,4 @@
-# warframm info
+# warframe info
 
 ## 使用
 
